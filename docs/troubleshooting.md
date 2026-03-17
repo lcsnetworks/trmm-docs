@@ -152,7 +152,7 @@ These two sets of settings must match for the install to download the mesh insta
 
 ## Agents not checking in or showing up / General agent issues
 
-Eg. Agent Boot time: 53 years ago
+Eg. Agent Boot time: 56 years ago
 
 These are NATS problems. Try the quick fixes first:
 
