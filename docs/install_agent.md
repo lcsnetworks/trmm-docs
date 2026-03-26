@@ -300,6 +300,10 @@ chmod +x rmm.sh
     !!!note
         This enabled the native VNC client on MacOS. If you don't limit in the `Allow access for` to `Only theses users` make certain you don't have other users or users without passwords.
 
+    Use VNC to connect to macOS 15+
+
+    ![vnc2](images/macvnc15.png)
+
 === ":fontawesome-brands-apple: macOS 14 Sonoma and earlier"
 
     Step 1: Open System Preferences
